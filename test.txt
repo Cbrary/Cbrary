@@ -1,0 +1,17 @@
+printf$
+stdio.h$
+int main () 
+{ 
+	printf("hello world"); 
+	return 0; 
+}$
+모니터에 출력하는 함수$
+scanf$
+stdio.h$
+int main () 
+{ 
+	int a;
+	scanf("%d", &a); 
+	return 0; 
+}$
+int형 변수 a에 값 설정$
